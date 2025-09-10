@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer Intern",
+    "company": "Tech Solutions Inc.",
+    "location": "Bangalore",
+    "sector": "IT",
+    "education": "B.Tech",
+    "skills": ["React", "JavaScript", "HTML", "CSS"],
+    "description": "Work on exciting web development projects."
+  },
+  {
+    "id": 2,
+    "title": "Data Science Intern",
+    "company": "Data Insights",
+    "location": "Hyderabad",
+    "sector": "Data Science",
+    "education": "B.Tech",
+    "skills": ["Python", "Machine Learning", "Pandas"],
+    "description": "Analyze large datasets and build predictive models."
+  },
+  {
+    "id": 3,
+    "title": "Marketing Intern",
+    "company": "MarketPro",
+    "location": "Mumbai",
+    "sector": "Marketing",
+    "education": "MBA",
+    "skills": ["Social Media", "SEO", "Content Creation"],
+    "description": "Develop and execute marketing campaigns."
+  },
+  {
+    "id": 4,
+    "title": "Backend Developer Intern",
+    "company": "CodeGenius",
+    "location": "Pune",
+    "sector": "IT",
+    "education": "B.Tech",
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "description": "Build and maintain server-side applications."
+  },
+  {
+    "id": 5,
+    "title": "UX/UI Design Intern",
+    "company": "Creative Minds",
+    "location": "Bangalore",
+    "sector": "Design",
+    "education": "Any Graduate",
+    "skills": ["Figma", "Adobe XD", "User Research"],
+    "description": "Design intuitive and user-friendly interfaces."
+  }
+]
